@@ -3,21 +3,29 @@
         <title>我的全新 Hugo 网站</title>
         <link>https://haoyangdeng.github.io/</link>
         <description>这是我的全新 Hugo 网站</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 16 Jul 2022 15:41:31 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 26 Jul 2022 22:46:15 &#43;0800</lastBuildDate>
             <atom:link href="https://haoyangdeng.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>etcd源码阅读(一)</title>
+    <link>https://haoyangdeng.github.io/etcd%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB%E4%B8%80/</link>
+    <pubDate>Tue, 26 Jul 2022 22:46:15 &#43;0800</pubDate>
+    <author>Denghaoyang</author>
+    <guid>https://haoyangdeng.github.io/etcd%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB%E4%B8%80/</guid>
+    <description><![CDATA[原理 etcd核心是分布式一致性协议算法raft，可以观看演示动画来理解raft算法。 集群角色 raft算法中node的状态可以是跟随者(fol]]></description>
+</item>
+<item>
     <title>First_post</title>
     <link>https://haoyangdeng.github.io/first_post/</link>
     <pubDate>Sat, 16 Jul 2022 15:41:31 &#43;0800</pubDate>
-    <author>xxxx</author>
+    <author>Denghaoyang</author>
     <guid>https://haoyangdeng.github.io/first_post/</guid>
-    <description><![CDATA[]]></description>
+    <description><![CDATA[This file is for test.]]></description>
 </item>
 <item>
-    <title>Markdown_introduction</title>
+    <title>Markdown学习</title>
     <link>https://haoyangdeng.github.io/markdown_introduction/</link>
     <pubDate>Thu, 12 May 2022 22:46:15 &#43;0800</pubDate>
-    <author>xxxx</author>
+    <author>Denghaoyang</author>
     <guid>https://haoyangdeng.github.io/markdown_introduction/</guid>
     <description><![CDATA[markdown使用规则 参考资料Markdown 官方教程 标题 使用符号井号#后面接标题字段，注意#和标题间要有空格,多个#代表几级标题，如 ## 标]]></description>
 </item>
